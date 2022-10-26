@@ -10,11 +10,11 @@ Comparision of CUDA, OpenMP, MPI & Pthreads performances on parallelizing Gaussi
 3) [**CUDA_and_OpenMP**](CUDA_and_OpenMP) - Parallelization of Matrix Multiplication Algorithm using **CUDA**, and comparing its performace with **OpenMP**.
 
 ## Performances:
-### <ins>Gaussian Elimination Single-Core runtimes (in seconds):</ins>
+### <ins>Gaussian Elimination Single-Core runtimes (in seconds)</ins>:
 ![Sequential_Times](/graphs/gauss_seq.jpg?raw=true "Sequential Times")
 
-### <ins>Gaussian Elimination: Pthreads vs MPI vs OpenMP runtimes (in seconds):</ins>
+### <ins>Gaussian Elimination: Pthreads vs MPI vs OpenMP runtimes (in seconds)</ins>:
 ![Pthreads-MPI-OpenMP_Times](/graphs/pthreads-mpi-openmp.jpg?raw=true "Pthreads-MPI-OpenMP Times")
 
-### <ins>Matrix Multiplication: Single-Core vs OpenMP vs CUDA speedups (x times the 1-core speed):</ins>
+### <ins>Matrix Multiplication: Single-Core vs OpenMP vs CUDA speedups (x times the 1-core speed)</ins>:
 ![Seq-OpenMP-CUDA_Speedups](/graphs/mm_seq-openmp-cuda.jpg?raw=true "Seq-OpenMP-CUDA Speedups")
