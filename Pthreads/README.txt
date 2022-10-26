@@ -27,10 +27,3 @@ Step-3:
 		Example runs:
 			./gauss_external_input  matrices_dense/orsreg_1.dat 16
 			./gauss_external_input  matrices_dense/saylr4.dat 		// This will by default consider the number of threads as 32.
-
-
-Author:
-
-Deepak Subramani Velumani
-MS CS 1st year
-Registartion Number: 32132007

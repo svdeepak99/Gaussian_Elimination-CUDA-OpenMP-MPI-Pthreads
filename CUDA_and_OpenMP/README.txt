@@ -7,11 +7,3 @@ The instruction to run both the Versions is starightforward and as follows:
 - Run the following command to compile the CUDA Program: "make -f Makefile"
 - Run the following command to execute the compiled CUDA Program: "./cuda_matmul <nsize>"
 		Example Usage: ./cuda_matmul 2048
-
-
-Author:
-
-Deepak Subramani Velumani
-dsubrama@ur.rochester.edu
-MS CS 1st year
-Registartion Number: 32132007

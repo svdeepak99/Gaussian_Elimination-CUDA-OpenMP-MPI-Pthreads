@@ -67,10 +67,3 @@ If you want to run the gauss_internal_input.c program, here is how to to run it:
 		Example runs:
 			./gauss_external_input  matrices_dense/orsreg_1.dat 16
 			./gauss_external_input  matrices_dense/saylr4.dat 		// This will by default consider the max number of threads available in system
-
-
-Author:
-
-Deepak Subramani Velumani
-MS CS 1st year
-Registartion Number: 32132007
